@@ -11,7 +11,7 @@
     "jsx": "react",
     "allowJs": true,
 //    для абсолютных импортов
-    "baseUrl": ""
+//    "baseUrl": ""
   },
   "ts-node": {
     "compilerOptions": {
