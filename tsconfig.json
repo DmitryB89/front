@@ -8,11 +8,15 @@
     "skipLibCheck": true,
     "allowSyntheticDefaultImports": true,
     "moduleResolution": "node",
-    "jsx": "react"
+    "jsx": "react",
+    "allowJs": true,
+//    для абсолютных импортов
+    "baseUrl": ""
   },
   "ts-node": {
     "compilerOptions": {
       "module": "CommonJS"
     }
   }
+
 }
