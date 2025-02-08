@@ -8,7 +8,7 @@
     "skipLibCheck": true,
     "allowSyntheticDefaultImports": true,
     "moduleResolution": "node",
-    "jsx": "react",
+    "jsx": "react-jsx",
     "allowJs": true,
 //    для абсолютных импортов
 //    "baseUrl": ""
